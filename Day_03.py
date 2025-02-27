@@ -1,4 +1,5 @@
 # Daily Python Challenge Day_03
+#Question: Write a program that takes a number as input and prints whether the number is prime or not.
 
 num = int(input("Enter a number: "))  
 
